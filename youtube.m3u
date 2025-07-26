@@ -306,7 +306,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/yDTnnhV.jpg" tvg-id="", NBC News
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753540133/ei/xZGEaMGTKMODkucPluXTwQs/ip/145.132.99.128/id/eaRVSReUhJY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51478322/txs/51478320%2C51478321%2C51478322/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/bui/AY1jyLPGSGaiss1ud1cDK6FTfEfPd7D85SsQRet-uiFsOGamk9zaTZM03AO_5vK7RxamUzSwEmyvOvkw/spc/l3OVKUWyih7fYcc3n01wo--b2e7-nmrdP-K4GsnJtlkypdeCsodEYV_qhDMhSkuD4NU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51542236/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJgdDpTWGSb5Ha0qAcI1m1rxMmbEO5Ex2miuO0J1Vl3PAiEAq7kxbgth-TXAJZbAsC5g3DGwE8Wts4shhcr_IUwu64c%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/eHxuTsb.png" tvg-id="", TeleSUR English
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
